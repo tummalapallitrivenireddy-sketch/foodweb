@@ -1,0 +1,23 @@
+[
+  {
+    "id": "de1c641c-4680-4060-b20e-d968fe25d61f",
+    "name": "Fish fry",
+    "price": 399,
+    "image": "https://www.bing.com/ck/a?!&&p=d23f3e918e29b4226dde824c1aec84a4804d36bb8e15edb8663adaefd5cf8c5eJmltdHM9MTc4MDg3NjgwMA&ptn=3&ver=2&hsh=4&fclid=38979833-62c6-63ba-09bb-890d636b6280&u=a1L2ltYWdlcy9zZWFyY2g_cT1maXNoK2ZyeStpbWFnZXMmaWQ9OUVFMDFCNUM4MTk5MEVGMkFDNzExMUEzQjc3MkI1OTc5OTU5NEZDOSZGT1JNPUlRRlJCQQ",
+    "category": "nonveg"
+  },
+  {
+    "id": "c2adae09-0173-47dd-a23f-951088301819",
+    "name": "makhana ",
+    "price": 300,
+    "image": "https://tse2.mm.bing.net/th/id/OIP.5nYj8OwauDJxD2dwK-xA9wHaFf?rs=1&pid=ImgDetMain&o=7&rm=3",
+    "category": "veg"
+  },
+  {
+    "id": "fc62b454-7832-4b80-8928-4cf9bf7528e4",
+    "name": "garlic chicken",
+    "price": 300,
+    "image": "https://www.licious.in/blog/wp-content/uploads/2020/12/Garlic-Chicken.jpg",
+    "category": "nonveg"
+  }
+]
