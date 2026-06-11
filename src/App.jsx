@@ -9,7 +9,7 @@ import Contact from "./Contact";
 import Vegitems from "./Vegitems";
 import NonVegitems from "./NonVegitems";
 import Cart from "./Cart";
-import Admin from "./AdminLogin";
+import Admin from "./adminLogin";
 
 function App() {
   // cartItems = list of items, each has { id, name, price, image, quantity }
